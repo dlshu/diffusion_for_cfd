@@ -1,1 +1,2 @@
-# diffusion_for_cfd
+# Diffusion for CFD
+Prototype code for SDEdit + DDIM
